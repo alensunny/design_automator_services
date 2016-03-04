@@ -6,9 +6,6 @@ Grab these useful automator services that helps you to save time and increase de
 The running around between design and development gets reduced and gives the development team ready assets in quick time.
 Its as easy as 1-2-3 and you are done with the asset generation.
 
-Love using these scripts?
-
-Follow me on [Dribbble](https://dribbble.com/alensunny).
 
 **Create iOS Assets from 3x**
 
@@ -26,5 +23,21 @@ Follow me on [Dribbble](https://dribbble.com/alensunny).
 
 >Just with a single click change any image format to PNG/JPEG. 
 >PSD to PNG/JPEG is now with a single click (_Make sure you have backed up your PSDs_. _This will flatten your PSDs and I'm not responsable for data loss_)
+
+### Installation
+
+>Download, extract and double click on the script you want to install.
+
+### Usage
+
+>Right click on any image file from Finder, then Services->_Choose your script_
+
+
+
+######Love using these scripts?
+
+Follow me on [Dribbble](https://dribbble.com/alensunny).
+
+Note:
 
 For image compression I recommend [TingPNG for Automator](https://github.com/utom/tinypng-for-automator).
