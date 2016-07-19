@@ -1,4 +1,4 @@
-# Useful OS X Automator Services for Designers
+# Useful OS X or macOS Automator Services for Designers
 
 Hey UX folks, 
 
