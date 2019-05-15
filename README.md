@@ -6,18 +6,13 @@ Grab these useful automator services that helps you to save time and increase de
 The running around between design and development gets reduced and gives the development team ready assets in quick time.
 Its as easy as 1-2-3 and you are done with the asset generation.
 
+**Generate Android and iOS Assets from 4x (xxxhdpi)**
+
+>This service will generate xxxhdpi, xxhdpi, xhdpi, hdpi and mdpi assets from the 4x(xxxhdpi) image you select.
 
 **Create iOS Assets from 3x**
 
 >This service will generate 1x, 2x and 3x assets from the 3x image you select and it automatically rename and add suffix to the file.
-
-**Create Android Assets from xxhdpi**
-
->This service will generate xxhdpi, xhdpi, hdpi and mdpi assets from the xxhdpi image you select. After running this script just run "Organise Android Assets" Service to group it into respective drawable folder.
-
-**Organize Android Assets**
-
->This service will group the generated Android Assets to drawable folder.
 
 **Convert to PNG/JPEG**
 
