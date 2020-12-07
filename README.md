@@ -28,11 +28,10 @@ Its as easy as 1-2-3 and you are done with the asset generation.
 >Right click on any image file from Finder, then Services->_Choose your script_
 
 
-
 ######Love using these scripts?
 
+Buy me a ☕️[Coffee](https://www.buymeacoffee.com/alensunny).\
 Follow me on [Dribbble](https://dribbble.com/alensunny).
 
-Note:
-
+Ps:
 For image compression I recommend [TingPNG for Automator](https://github.com/utom/tinypng-for-automator).
